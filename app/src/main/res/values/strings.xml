@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Presupuesto_Databinding</string>
+    <string name="numero_Casas" >Numero de Casas</string>
+    <string name="largo_Techo" >Largo del Techo</string>
+    <string name="ancho_Techo" >Ancho del Techo</string>
+    <string name="btn_Calcular" >Costo</string>
+</resources>
