@@ -4,4 +4,6 @@
     <string name="largo_Techo" >Largo del Techo</string>
     <string name="ancho_Techo" >Ancho del Techo</string>
     <string name="btn_Calcular" >Costo</string>
+    <string name="btn_Limpiar" >Limpiar</string>
+    <string name="presentacion" >Powered by Mario Vega</string>
 </resources>
